@@ -1,0 +1,1 @@
+With the noisy timing data the correct key byte usually becomes clearly distinguishable (threshold t-value of 4,5) already between roughly 200.000 and 350.000 traces, depending on the byte (see e.g. byte 1,12). Using all 1.000.000 traces is therefore not necessary.
