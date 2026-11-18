@@ -1,0 +1,1 @@
+The plots show that most byte pairs reach the threshold of 4.5 after approximately 700,000 traces. Some pairs, such as (3, 12), reach it even before 400,000 traces, while others, especially (0, 6) and (0, 10), require more traces. Overall, around 800,000 traces appear to be sufficient, as the correct key differences are clearly distinguishable in all plots at this point.

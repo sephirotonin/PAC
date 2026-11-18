@@ -1,0 +1,4 @@
+The program ran for approximately 8 minutes.
+
+Laufzeit Runde 1: 5.8s
+Laufzeit Runde 2: 492.7s
